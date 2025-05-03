@@ -52,7 +52,7 @@
 
 @layer base {
   * {
-    @apply border-gray-500; /* Replace 'border-border' with a valid border class */
+    @apply border border-gray-500;
   }
   
     
